@@ -1,1 +1,2 @@
-# MyFirstProject1
+My name is Afsaan
+and i am new to programming
